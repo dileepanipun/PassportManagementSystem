@@ -1,0 +1,30 @@
+
+.buttonReport{
+    -fx-font-size: 14px;
+    -fx-font-family: Roboto;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-background-color: #ff6868;
+    -fx-border-color: #fff8fd;
+    -fx-background-radius: 100px;
+    -fx-border-radius: 100px;
+    -fx-border-width: 1px;
+    -fx-cursor: pointer;
+}
+
+.detail-lable{
+    -fx-pref-height: 10px;
+    -fx-padding: 3px 10px 3px 10px;
+    -fx-font-size: 12px;
+    -fx-font-family: Roboto;
+    -fx-font-weight: bold;
+    -fx-text-fill: #000000;
+    -fx-background-color: #ffffff;
+    -fx-border-color: #d8d8d8;
+    -fx-background-radius: 100px;
+    -fx-border-radius: 100px;
+    -fx-border-width: 1px;
+    -fx-cursor: pointer;
+}
+
+

@@ -1,0 +1,59 @@
+.stage-rounded{
+    -fx-background-color: rgb(255, 255, 255);
+    -fx-border-color: #ffffff;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-width: 1px;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow(three-pass-box, rgb(143, 145, 138), 15, 0, 0, 0);
+}
+
+.leged-Label{
+    -fx-padding: 5px 10px 5px 10px;
+    -fx-font-size: 12px;
+    -fx-font-family: Roboto;
+    -fx-font-weight: light;
+    -fx-text-fill: #767773;
+    -fx-background-color: #ffffff;
+    -fx-border-color: #d8d8d8;
+    -fx-background-radius: 100px;
+    -fx-border-radius: 100px;
+    -fx-border-width: 1px;
+    -fx-cursor: pointer;
+    /*-fx-effect: dropshadow(three-pass-box, rgb(194, 196, 188), 5, 0, 0, 0);*/
+}
+
+.button-primary{
+    -fx-font-size: 14px;
+    -fx-font-family: Roboto;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-background-color: #ffa235;
+    -fx-border-color: #ffa235;
+    -fx-background-radius: 100px;
+    -fx-border-radius: 100px;
+    -fx-border-width: 1px;
+    -fx-cursor: pointer;
+    /*-fx-effect: dropshadow(three-pass-box, rgb(138, 140, 132), 10, 0, 0, 0);*/
+}
+
+.button-primary:hover{
+    -fx-background-color: #ff9322;;
+}
+
+.button-secondary{
+    -fx-font-size: 14px;
+    -fx-font-family: Roboto;
+    -fx-font-weight: light;
+    -fx-text-fill: #ffa235;
+    -fx-background-color: #fdfff2;
+    -fx-border-color: #d3d5ca;
+    -fx-background-radius: 100px;
+    -fx-border-radius: 100px;
+    -fx-border-width: 1px;
+    /*-fx-effect: dropshadow(three-pass-box, rgb(177, 179, 171), 10, 0, 0, 0);*/
+}
+
+.button-secondary:hover{
+    -fx-font-weight: bold;
+}

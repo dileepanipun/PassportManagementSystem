@@ -1,0 +1,12 @@
+
+.passport-photo{
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.text-field, .text-area, .combo-box{
+    -fx-background-color: #fafafa;
+    -jfx-focus-color: #ff8e00;
+    -jfx-unfocus-color:#a7a7a7;
+    -jfx-label-float: true;
+}

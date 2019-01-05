@@ -1,0 +1,39 @@
+
+.slideMenu{
+    -fx-background-color: #272827;
+    -fx-font-family: Roboto;
+    -fx-effect: dropshadow(three-pass-box, rgb(90, 92, 86), 15, 0, 0, 0);
+}
+
+.slide-nav{
+    -fx-background-color: #282C2D;
+    -fx-border-width: 0 0 2px 0;
+    -fx-border-color: #FF8F2B;
+}
+
+.nav-button{
+    -fx-background-color: #282C2D;
+    -fx-border-width: 0 0 0 5px;
+    -fx-border-color: #282C2D;
+    -fx-font-family: Roboto;
+    -fx-graphic-text-gap: 15px;
+}
+
+.nav-button:hover{
+    -fx-background-color: #535a5b;
+    -fx-border-width: 0 0 0 5px;
+    -fx-border-color: #fff8fd;
+    -fx-font-family: Roboto;
+    -fx-font-weight: bold;
+}
+
+.notify-label{
+    -fx-background-color: rgba(180, 183, 175, 0.79);
+    -fx-background-radius: 10px;
+    -fx-padding: 2px 8px 2px 8px;
+}
+
+.passport-validated{
+    -fx-background-color: #505455;
+    -fx-background-radius: 5px;
+}
